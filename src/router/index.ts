@@ -38,7 +38,7 @@ const routes: Array<RouteRecordRaw> = [
           {
             path: 'tab1-detail2',
             name: 'tab1-details2',
-            component: () => import('@/views/NewPage.vue')
+            component: () => import('@/views/NewPage2.vue')
           }
         ],
         beforeEnter: (to, from, next) => {

@@ -11,7 +11,7 @@
           <ion-title size="large">Page for test</ion-title>
         </ion-toolbar>
       </ion-header>
-
+      <div>Link 1 Page</div>
     </ion-content>
   </ion-page>
 </template>
